@@ -1,0 +1,5 @@
+p {
+    background-color: yellow;
+    color: teal;
+    transition-property: all 3s;
+}
